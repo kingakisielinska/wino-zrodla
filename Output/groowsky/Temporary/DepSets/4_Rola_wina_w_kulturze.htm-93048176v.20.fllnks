@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Rola wina w kulturze"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/A_Opisy/3_Historia_wina.htm" />
+    <Link
+      Url="Content/_Obrazki/relifia.jpg" />
+    <Link
+      Url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Jan_Vermeer_van_Delft_018.jpg/800px-Jan_Vermeer_van_Delft_018.jpg" />
+    <Link
+      Url="Content/_Obrazki/sztuka.jpg" />
+    <Link
+      Url="https://upload.wikimedia.org/wikipedia/commons/2/27/F1_1903_30.jpg" />
+    <Link
+      Url="Content/_Obrazki/styl.jpg" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Wino_w_kulturze" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/A_Opisy/3_Historia_wina.htm" />
+    <Link
+      Url="Content/_Obrazki/relifia.jpg" />
+    <Link
+      Url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Jan_Vermeer_van_Delft_018.jpg/800px-Jan_Vermeer_van_Delft_018.jpg" />
+    <Link
+      Url="Content/_Obrazki/sztuka.jpg" />
+    <Link
+      Url="https://upload.wikimedia.org/wikipedia/commons/2/27/F1_1903_30.jpg" />
+    <Link
+      Url="Content/_Obrazki/styl.jpg" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Wino_w_kulturze" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

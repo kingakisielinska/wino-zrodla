@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="Wstęp"
+    Link="/Content/D_Ogolne/Strona_tytulowa.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/ZZ_Zasoby/Strona_tytulowa.flpgl"
+    PageType="title">
+    <TocEntry
+      Title="New Entry" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Opisy/1_Dla_kogo_jest_ten_przewodnik.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Opisy/2_Co _to_jest_wino.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Opisy/3_Historia_wina.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Opisy/4_Rola_wina_w_kulturze.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Opisy/5_Co_to_jest_wino_domowe.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Opisy/6_Drozdze.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Opisy/7_Fermentacja.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Opisy/8_Rozlew_wina.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Opisy/9_Przechowywanie_wina.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Opisy/10_Konsumpcja_wina.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Opisy/11_Skutki_uboczne_nadużywania_wina.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+</CatapultToc>

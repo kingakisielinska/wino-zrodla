@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=" Co to jest wino?"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ZZ_Zasoby/cotowino.flsnp" />
+    <Link
+      Url="Content/_Obrazki/winogrono.jpg" />
+    <Link
+      Url="http://www.wina.zasada.pl/pl/co-to-jest-wino" />
+    <Link
+      Url="http://tratoria.pl/poznac-wino/co-to-jest-wino/" />
+    <Link
+      Url="http://podniebnewinnice.pl/skomplikowane-tlumaczenia-etykiet-na-winie/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ZZ_Zasoby/cotowino.flsnp" />
+    <Link
+      Url="Content/_Obrazki/winogrono.jpg" />
+    <Link
+      Url="http://www.wina.zasada.pl/pl/co-to-jest-wino" />
+    <Link
+      Url="http://tratoria.pl/poznac-wino/co-to-jest-wino/" />
+    <Link
+      Url="http://podniebnewinnice.pl/skomplikowane-tlumaczenia-etykiet-na-winie/" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

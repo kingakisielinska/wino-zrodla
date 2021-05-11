@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Users\groowsky\Desktop\studia\github\flare\WinoDomowe\Content\_Obrazki\winogrono.jpg" />
+    </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\Users\groowsky\Desktop\studia\github\flare\WinoDomowe\Content\ZZ_Zasoby\Fermentacja_7.flsnp" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Users\groowsky\Desktop\studia\github\flare\WinoDomowe\Content\A_Opisy\6_Drozdze.htm" />
+    </Dialog>
+</RecentLinks>

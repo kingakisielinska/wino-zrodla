@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Dla kogo jest ten przewodnik?"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/PageLayouts/NewPageLayout.flpgl" />
+    <Link
+      Url="Content/_Obrazki/wino.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/PageLayouts/NewPageLayout.flpgl" />
+    <Link
+      Url="Content/_Obrazki/wino.jpg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

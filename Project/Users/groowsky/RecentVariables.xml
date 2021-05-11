@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ObjectList>
+    <Object Value="NewSet.Firma" />
+    <Object Value="NewSet.Adres email" />
+    <Object Value="NewSet.Imię i nazwisko" />
+    <Object Value="NewSet.Numer wersji" />
+    <Object Value="NewSet.Data i godzina" />
+    <Object Value="System.ShortDate" />
+</ObjectList>

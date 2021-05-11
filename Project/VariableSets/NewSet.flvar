@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="Imię i nazwisko"
+    EvaluatedDefinition="Kinga Kisielińska">Kinga Kisielińska</Variable>
+  <Variable
+    Comment=""
+    Name="Firma"
+    EvaluatedDefinition="Akademia Finansów i Biznesu Vistula">Akademia Finansów i Biznesu Vistula</Variable>
+  <Variable
+    Name="Firma"
+    Comment=""
+    EvaluatedDefinition="Komunikacja Techniczna">Komunikacja Techniczna</Variable>
+  <Variable
+    Name="Data i godzina"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2021-03-13T11:32:37.1419726+01:00"
+    EvaluatedDefinition="MMMM dd, yyyy hh:mm:ss tt">MMMM dd, yyyy hh:mm:ss tt</Variable>
+  <Variable
+    Name="Numer wersji"
+    Comment=""
+    EvaluatedDefinition="1.0">1.0</Variable>
+  <Variable
+    Name="Adres email"
+    Comment=""
+    EvaluatedDefinition="kkisiel3@stu.vistula.edu.pl">kkisiel3@stu.vistula.edu.pl</Variable>
+</CatapultVariableSet>

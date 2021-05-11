@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1.00in" PaddingBottom="1in">
+        <Frame X="1px" Y="134px" Width="530px" Height="129px" FlowIndex="0" Flow="body" Right="45px" Bottom="601px" />
+        <Frame X="6px" Y="-47px" Width="523px" Height="149px" Flow="decoration0" Right="47px" Bottom="762px" BackgroundImage="../_Obrazki/wine.jpg" BackgroundRepeat="stretch" />
+        <Frame X="1px" Y="294px" Width="527px" Height="322px" FlowIndex="1" Flow="body" Right="48px" Bottom="248px" />
+        <Frame X="218px" Y="644px" Width="311px" Height="272px" FlowIndex="3" Flow="body" Right="47px" Bottom="-52px" />
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1.00in" PaddingBottom="1in">
+        <Frame X="-84px" Y="-85px" Width="691px" Height="61px" Flow="header" Right="-31px" Bottom="888px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="margin-bottom: 1.12em;margin-top: 1.12em;text-align: center;">Wszystko o... winie <MadCap:variable xhtml:name="NewSet.Imię i nazwisko" /> </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-86px" Y="900px" Width="691px" Height="46px" Flow="footer" Right="-29px" Bottom="-82px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: center;">Strona <MadCap:variable xhtml:name="System.PageNumber" /> z <MadCap:variable xhtml:name="System.PageCount" /> <MadCap:variable xhtml:name="NewSet.Data i godzina" /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-84px" Y="-18px" Width="691px" Height="884px" Flow="body" Right="-31px" Bottom="-2px" />
+    </Page>
+</PageStyles>
