@@ -9,13 +9,13 @@
     <Link
       Url="Content/Resources/PageLayouts/NewPageLayout.flpgl" />
     <Link
-      Url="Content/_Obrazki/wino.jpg" />
+      Url="Content/E_Obrazki/wino.jpg" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/PageLayouts/NewPageLayout.flpgl" />
     <Link
-      Url="Content/_Obrazki/wino.jpg" />
+      Url="Content/E_Obrazki/wino.jpg" />
   </LongLinks>
   <Anchors />
   <Keywords />

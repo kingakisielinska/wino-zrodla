@@ -7,15 +7,19 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/_Obrazki/rozlew.jpg" />
+      Url="Content/E_Obrazki/rozlew.jpg" />
     <Link
       Url="Content/ZZ_Zasoby/Fermentacja_7.flsnp" />
+    <Link
+      Url="https://wino.org.pl/old/frames/ogol_zasad.html" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/_Obrazki/rozlew.jpg" />
+      Url="Content/E_Obrazki/rozlew.jpg" />
     <Link
       Url="Content/ZZ_Zasoby/Fermentacja_7.flsnp" />
+    <Link
+      Url="https://wino.org.pl/old/frames/ogol_zasad.html" />
   </LongLinks>
   <Anchors />
   <Keywords />

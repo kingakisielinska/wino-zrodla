@@ -4,35 +4,33 @@
   BuildVersion="16.2.7685.28170">
   <Files>
     <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/_Obrazki/przechowywanie2.jpg" />
+      Source="Output/groowsky/Temporary/PDF/PDF_655396F/E_Obrazki/fermentacja.jpg" />
     <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/_Obrazki/przechowywanie.jpg" />
-    <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/_Obrazki/drozdze.jpg" />
-    <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/_Obrazki/domowe_wino.jpg" />
+      Source="Output/groowsky/Temporary/PDF/PDF_655396F/E_Obrazki/przechowywanie2.jpg" />
     <Url
       Source="Output/groowsky/PDF/PDF.pdf" />
     <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/_Obrazki/fermentacja.jpg" />
+      Source="Output/groowsky/Temporary/PDF/PDF_655396F/E_Obrazki/sztuka.jpg" />
     <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/_Obrazki/sztuka.jpg" />
+      Source="Output/groowsky/Temporary/PDF/PDF_655396F/E_Obrazki/styl.jpg" />
     <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/_Obrazki/styl.jpg" />
+      Source="Output/groowsky/Temporary/PDF/PDF_655396F/E_Obrazki/przechowywanie.jpg" />
     <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/_Obrazki/wino.jpg" />
+      Source="Output/groowsky/Temporary/PDF/PDF_655396F/E_Obrazki/wino.jpg" />
     <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/_Obrazki/rozlew.jpg" />
+      Source="Output/groowsky/Temporary/PDF/PDF_655396F/E_Obrazki/drozdze.jpg" />
     <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/_Obrazki/historia-wina.jpg" />
+      Source="Output/groowsky/Temporary/PDF/PDF_655396F/E_Obrazki/historia-wina.jpg" />
     <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/_Obrazki/wine.jpg" />
+      Source="Output/groowsky/Temporary/PDF/PDF_655396F/E_Obrazki/rozlew.jpg" />
     <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/_Obrazki/winogrono.jpg" />
+      Source="Output/groowsky/Temporary/PDF/PDF_655396F/E_Obrazki/winogrono.jpg" />
     <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/ZZ_Zasoby/WinoStylesheet.css" />
+      Source="Output/groowsky/Temporary/PDF/PDF_655396F/E_Obrazki/domowe_wino.jpg" />
     <Url
-      Source="Output/groowsky/Temporary/PDF/PDF_565D6D2/_Obrazki/relifia.jpg" />
+      Source="Output/groowsky/Temporary/PDF/PDF_655396F/ZZ_Zasoby/WinoStylesheet.css" />
+    <Url
+      Source="Output/groowsky/Temporary/PDF/PDF_655396F/E_Obrazki/relifia.jpg" />
   </Files>
   <Skins />
 </CatapultTargetOutput>
